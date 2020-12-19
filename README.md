@@ -3,4 +3,4 @@
 
 Clique [aqui](https://dianamartine.github.io/fire-doom-javascript/.) para ver o projeto funcionando
  
-Created By Diana Martine&copy;
+Created By &reg;Diana Martine&trade;
